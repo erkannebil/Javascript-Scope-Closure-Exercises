@@ -1,11 +1,5 @@
-# Scope ve Closure Projesi
-
-The module challenge is the afternoon project or assignment that students work through independently. This expands on the guided project completed earlier with the instructor.
-
 ## JavaScript Temelleri
-
 ## Scope ve Closure
-
 ## Amaçlar
 
 - function scope'u anlamak
@@ -30,7 +24,7 @@ VSCode ve Komut Satırını Kullanma:
 
 1. Bu repo'yu fork'layın
 2. Frok'ladığınız repo'yu bilgisayarınızda clone'layın
-3. LÜTFEN BRANCH OLUŞTURMAYINIZ! Bu projede main branch'ine push'layacaksın
+3. Bu projede main branch'ine push'layacaksın
 4. Repo'nuzun olduğu klasöre gidin (`cd REPO_ADI`)
 5. Vs code'da terminali açın ve `npm install` yazın ve çalıştırın
 6. Sonra `npm run test` yazın ve çalıştırın
@@ -51,7 +45,3 @@ Bir terminal ekranında testleri çalıştırırken bir diğerinde ise debug yap
 ### Görev 3: Zorlayıcı Görevler
 
 Sana verilen gün sonu projesindeki görevleri tamamladıktan sonra zorlayıcı çalışmaları yapabilirsin.
-
-## Proje Teslim Etme Adımları
-
-Verilen görevi tamamladıktan sonra [Workintech Platformu](https://app.workintech.com.tr)'nda (app.workintech.com.tr) `Sprint 2>Gün 1`'in sonuna eklenmiş olan "` Görev: Sprint 2'nin 1. Gün projesini buraya yükle`" içeriğini açıp. GitHub hesabınızda oluşturduğunuz repo'nun adresini buraya ekleyiniz.
