@@ -5,7 +5,7 @@
 /**Örnek Görev: İlkini Dön
  * 
  * Bu örnek sonradan gelecek olan görevleri nasıl çözeceğinizi size gösterecek.
- * 
+ *  
  * Aşağdıaki Yüksek dereceden fonskiyonu(higher-order function) kullanarak aşağıdakileri yapınız
  *  1. Stringlerden oluşan bir array'i parametre olarak alın
  *  2. Bir string'i değişken olarak alan bir callback fonksiyonunu parametre olarak alın 
